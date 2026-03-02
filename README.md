@@ -1,6 +1,6 @@
 # M3DS Examples
 
-This repository contains a collection of example projects using the M3DS framework to demonstrate basic functionality.
+This repository contains a collection of example projects using the [M3DS](https://github.com/HyperDir/M3DS) framework to demonstrate basic functionality.
 
 ## Build Instructions
 1. Clone the repository
